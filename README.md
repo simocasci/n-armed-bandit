@@ -10,7 +10,7 @@ Agents implemented in `narmedbandit.py`:
 
   ![epsilon_greedy_avg_reward](https://github.com/simocasci/n-armed-bandit/blob/main/plots/epsilon_greedy_avg_reward.png)
 
-  ![epsilon_greedy_accuracy](https://github.com/simocasci/n-armed-bandit/blob/main/plots/optimistic_epsilon_greedy_accuracy.png)
+  ![epsilon_greedy_accuracy](https://github.com/simocasci/n-armed-bandit/blob/main/plots/epsilon_greedy_accuracy.png)
 
 - `OptimisticEpsGreedyBanditAgent`, an epsilon greedy agent with higher initial action values
 
